@@ -75,3 +75,12 @@ ul {
     list-style-type: none;
     padding: 0;
 }
+
+.products {
+    padding: 20px;
+    margin: 20px;
+}
+.products-list {
+    list-style: none;
+    padding: 0;
+}
